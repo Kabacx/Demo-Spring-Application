@@ -8,9 +8,7 @@
 
     <name>petclinic</name>
     <packaging>war</packaging>
-
     <properties>
-
         <!-- Generic properties -->
         <java.version>1.7</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
